@@ -2,8 +2,8 @@
 
 Distributed AI Operating System
 
-Current Version:
-Kernel v1.1
+Current Version: 
+Kernel v1.2
 
 Completed:
 - Database Layer
